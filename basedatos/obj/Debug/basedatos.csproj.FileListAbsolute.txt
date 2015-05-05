@@ -1,0 +1,7 @@
+C:\Users\Josue01\Documents\SharpDevelop Projects\basedatos\basedatos\obj\Debug\basedatos.csprojResolveAssemblyReference.cache
+C:\Users\Josue01\Documents\SharpDevelop Projects\practica4\basedatos\obj\Debug\basedatos.csprojResolveAssemblyReference.cache
+C:\Users\Josue01\Documents\SharpDevelop Projects\practica4\basedatos\bin\Debug\basedatos.exe.config
+C:\Users\Josue01\Documents\SharpDevelop Projects\practica4\basedatos\bin\Debug\basedatos.exe
+C:\Users\Josue01\Documents\SharpDevelop Projects\practica4\basedatos\bin\Debug\basedatos.pdb
+C:\Users\Josue01\Documents\SharpDevelop Projects\practica4\basedatos\obj\Debug\basedatos.exe
+C:\Users\Josue01\Documents\SharpDevelop Projects\practica4\basedatos\obj\Debug\basedatos.pdb
